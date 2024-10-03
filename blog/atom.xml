@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://Lamb-in-the-Ether.github.io/website/blog</id>
+    <id>https://Lamb-in-the-Ether.github.io/home/blog</id>
     <title>Lamb in the Ether Blog</title>
     <updated>2024-10-03T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://Lamb-in-the-Ether.github.io/website/blog"/>
+    <link rel="alternate" href="https://Lamb-in-the-Ether.github.io/home/blog"/>
     <subtitle>Lamb in the Ether Blog</subtitle>
-    <icon>https://Lamb-in-the-Ether.github.io/website/img/favicon.ico</icon>
+    <icon>https://Lamb-in-the-Ether.github.io/home/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[First Blog Post]]></title>
-        <id>https://Lamb-in-the-Ether.github.io/website/blog/first-post</id>
-        <link href="https://Lamb-in-the-Ether.github.io/website/blog/first-post"/>
+        <id>https://Lamb-in-the-Ether.github.io/home/blog/first-post</id>
+        <link href="https://Lamb-in-the-Ether.github.io/home/blog/first-post"/>
         <updated>2024-10-03T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This is the test blog post]]></summary>
         <content type="html"><![CDATA[<p>This is the test blog post</p>]]></content>
