@@ -8,12 +8,19 @@
     <subtitle>Lamb in the Ether Blog</subtitle>
     <icon>https://Lamb-in-the-Ether.github.io/home/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[First Blog Post]]></title>
-        <id>https://Lamb-in-the-Ether.github.io/home/blog/first-post</id>
-        <link href="https://Lamb-in-the-Ether.github.io/home/blog/first-post"/>
+        <title type="html"><![CDATA[The Site is now Live!]]></title>
+        <id>https://Lamb-in-the-Ether.github.io/home/blog/Site-is-Live</id>
+        <link href="https://Lamb-in-the-Ether.github.io/home/blog/Site-is-Live"/>
         <updated>2024-10-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is the test blog post]]></summary>
-        <content type="html"><![CDATA[<p>This is the test blog post</p>]]></content>
+        <summary type="html"><![CDATA[Welcome to the Lamb in the Ether site!]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-to-the-lamb-in-the-ether-site">Welcome to the Lamb in the Ether site!<a href="https://lamb-in-the-ether.github.io/home/blog/Site-is-Live#welcome-to-the-lamb-in-the-ether-site" class="hash-link" aria-label="Direct link to Welcome to the Lamb in the Ether site!" title="Direct link to Welcome to the Lamb in the Ether site!">​</a></h2>
+<p>It's a pleasure to have you here. Everyone at Lamb in the Ether is excited to share our thoughts, ideas and games with you! We hope you enjoy your stay and come back often to see what we're up to.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="details">Details<a href="https://lamb-in-the-ether.github.io/home/blog/Site-is-Live#details" class="hash-link" aria-label="Direct link to Details" title="Direct link to Details">​</a></h2>
+<p>The site is built with <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a> so check them out if you're interested in building your own site.
+Right now we're using github pages to host the site and for the moment we aren't expecting a lot of traffic so it should be fine. If we start to get more traffic we'll look into other hosting options such as Netlify.</p>
+<p>If you have any questions or comments feel free to reach out to us on our <a href="https://discord.com/invite/y6nZKTEZ9J" target="_blank" rel="noopener noreferrer">discord</a>! We'd love to hear from you.</p>
+<p>Cheers,<br>
+<!-- -->Elliott</p>]]></content>
         <author>
             <name>Elliott Ashby</name>
             <uri>https://github.com/Aethar01</uri>
